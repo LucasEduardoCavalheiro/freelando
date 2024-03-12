@@ -8,5 +8,4 @@ const estilos = css`
 
 export const Estilos = () => {
     return (<Global styles={estilos}/>)
-
 }
